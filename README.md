@@ -1,3 +1,4 @@
+[Screencast from 11-23-2026 10_53_45 PM.webm](https://github.com/user-attachments/assets/8710fee8-e43a-4b1f-b5b8-7cfbccfbe748)
 # ASTRON İHA Masterclass – Yazılım ve Aviyonik Sistemler
 
 ## Proje Hakkında
@@ -101,7 +102,4 @@ Python uygulaması PX4'e bağlanır, uçuş öncesi kontrolleri yapar, aracı ar
 
 Simülasyon uçuş kaydı:
 
-[Uploading Screencast from 11-23-2026 10_53_45 PM(1).webm…]()
-
-
-
+[Screencast from 11-23-2026 10_53_45 PM.webm](https://github.com/user-attachments/assets/639585c3-93e3-4434-9d09-3cf5cadfb2f5)
