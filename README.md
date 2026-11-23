@@ -1,4 +1,3 @@
-[Screencast from 11-23-2026 10_53_45 PM.webm](https://github.com/user-attachments/assets/8710fee8-e43a-4b1f-b5b8-7cfbccfbe748)
 # ASTRON İHA Masterclass – Yazılım ve Aviyonik Sistemler
 
 ## Proje Hakkında
