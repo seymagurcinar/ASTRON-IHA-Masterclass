@@ -101,6 +101,7 @@ Python uygulaması PX4'e bağlanır, uçuş öncesi kontrolleri yapar, aracı ar
 
 Simülasyon uçuş kaydı:
 
-`videos/Screencast from 11-23-2026 10:53:45 PM.webm`
+[Uploading Screencast from 11-23-2026 10_53_45 PM(1).webm…]()
+
 
 
